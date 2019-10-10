@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity implements MenuFragment.OnFr
 		getSupportFragmentManager().beginTransaction()
 				.replace(R.id.fragment_container, menuFragment)
 				.commit();
-
 		brocaIndexFragment = new BrocaIndexFragment();
 		bodyMassIndexFragment = new BodyMassFragment();
 		resultFragment = new ResultFragment();

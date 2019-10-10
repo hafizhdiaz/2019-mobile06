@@ -39,7 +39,6 @@
             app:layout_constraintRight_toRightOf="parent"
             android:layout_marginTop="20dp" />
 
-
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </FrameLayout>

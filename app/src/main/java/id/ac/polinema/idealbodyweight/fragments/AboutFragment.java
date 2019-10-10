@@ -63,5 +63,4 @@ public class AboutFragment extends Fragment {
         nameText.setText(name);
         return view;
     }
-
 }
