@@ -1,4 +1,4 @@
-package id.ac.polinema.idealbodyweight.Fragment;
+package id.ac.polinema.idealbodyweight.fragments;
 
 
 import android.os.Bundle;
